@@ -27,43 +27,7 @@
 
 ###
 
-{
-    "BotTracker": {
-        "BotActive": "Attivo",
-        "BotCount": "Contatore visite",
-        "BotKeyword": "Parola chiave",
-        "BotLastVisit": "Ultime visite",
-        "BotName": "Bot",
-        "BotTracker": "BotTracker",
-        "Bot_Tracker": "Tracciamento bot",
-        "Config": "Configurazione di BotTracker",
-        "DisplayWidget": "Visualizza BotTracker",
-        "Error_Fileimport_Not_Even": "Il numero di parametri nel file non è pari",
-        "Error_Fileimport_Upload": "Errore durante il caricamento",
-        "Error_empty": "è vuoto!",
-        "ExtraStats": "extra Statistiche",
-        "Import_help_format": "nomebot1|parolachiavebot1|nomebot2|parolachiavebot2|...",
-        "Import_help_headline": "Formato-Dataset:",
-        "Import_help_line1": "- tutti gli \"a capo\" verranno rimossi prima dell'importazione, così che tu possa inserire un'interruzione dopo ogni immissione di un bot",
-        "Import_help_line2": "- il numero dei valori deve essere pari",
-        "Import_help_line3": "- NON c'è il delimitatore \"|\" alla fine",
-        "Importfile": "Scegli file da importare...",
-        "Message_bot_inserted": "Bot aggiunti",
-        "Message_deleted": "eliminato!",
-        "NoOfActiveBots": "Nessun Bot per questo sito",
-        "PluginDescription": "Individua e conteggia bot e spider senza alterare il conteggio dei visitatori.",
-        "Top10": "Top10",
-        "Top_10_Bots": "I primi 10 Bots",
-        "Widgets": "BotTracker",
-        "delete": "elimina",
-        "false": "No",
-        "hits_by_Bot": "hits per Bot",
-        "insert_db": "Inserisci Bot predefiniti",
-        "save_changes": "Salva",
-        "send_file": "Carica ed Elabora il file",
-        "true": "´Si"
-    }
-}
+![](https://komarev.com/ghpvc/?username=lmorelli333)
 
 ###
 
